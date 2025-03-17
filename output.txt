@@ -1,0 +1,125 @@
+DanzasZ
+Easy: 2
+Medium: 3
+Hard: 10
+--------------------------
+BariaA
+Easy: 5
+Medium: 5
+Hard: 0
+--------------------------
+marrib
+Easy: 5
+Medium: 3
+Hard: 0
+--------------------------
+anastasia_vorontcova
+Easy: 2
+Medium: 0
+Hard: 0
+--------------------------
+NataliaKaryakina
+Easy: 5
+Medium: 5
+Hard: 5
+--------------------------
+KiselevITU
+Easy: 5
+Medium: 5
+Hard: 6
+--------------------------
+NEMO_PETYX
+Easy: 5
+Medium: 5
+Hard: 0
+--------------------------
+guess_whxo
+Easy: 5
+Medium: 0
+Hard: 0
+--------------------------
+unloquacious
+Easy: 5
+Medium: 5
+Hard: 1
+--------------------------
+ivanprokaev
+Easy: 5
+Medium: 6
+Hard: 1
+--------------------------
+gtyrhe
+Easy: 5
+Medium: 5
+Hard: 0
+--------------------------
+Piledryan
+Easy: 7
+Medium: 5
+Hard: 0
+--------------------------
+SofiaRaicheva
+Easy: 5
+Medium: 6
+Hard: 6
+--------------------------
+ananam
+Easy: 5
+Medium: 5
+Hard: 2
+--------------------------
+skluar
+Easy: 5
+Medium: 4
+Hard: 1
+--------------------------
+liuweer
+Easy: 5
+Medium: 6
+Hard: 5
+--------------------------
+codedima
+Easy: 5
+Medium: 5
+Hard: 0
+--------------------------
+ArianaTolokontseva
+Easy: 6
+Medium: 5
+Hard: 0
+--------------------------
+Anna_Trashkova
+Easy: 2
+Medium: 0
+Hard: 0
+--------------------------
+Arina_Fedosikhina
+Easy: 10
+Medium: 5
+Hard: 5
+--------------------------
+Marina2525
+Easy: 6
+Medium: 5
+Hard: 6
+--------------------------
+JustWin4ik
+Easy: 5
+Medium: 0
+Hard: 0
+--------------------------
+shafeevaalisa
+Easy: 5
+Medium: 5
+Hard: 5
+--------------------------
+ianmiroshnikov1
+Easy: 5
+Medium: 0
+Hard: 0
+--------------------------
+Kseniya17
+Easy: 5
+Medium: 5
+Hard: 5
+--------------------------
